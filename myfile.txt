@@ -1,0 +1,49 @@
+7
+Agust D
+D-Day
+assets/pics/dday.png
+1
+D-Day
+assets/sounds/dday/dday_sound.mp3
+Hans Zimmer
+Interstellar
+assets/pics/interstellar.png
+3
+Day One
+assets/sounds/interstellar/day_one_sound.mp3
+Cornfield chase
+assets/sounds/interstellar/cornfield_chase.mp3
+S.T.A.Y
+assets/sounds/interstellar/S.T.A.Y_sound.mp3
+BTS
+Love Yourself Tear
+assets/pics/love_yourself_tear.png
+1
+Singularity
+assets/sounds/love_yourself_tear/singularity_sound.mp3
+The Rah Band
+Past, Present & Future
+assets/pics/past,present&future.png
+1
+Messages From The Stars
+assets/sounds/past,present&future/messages_from_the_stars_sound.mp3
+David Kushner
+Footprints I Found
+assets/pics/footprints_i_found.png
+2
+Miserable Man
+assets/sounds/footprints_i_found/miserable_man_sound.mp3
+Burn
+assets/sounds/footprints_i_found/burn_sound.mp3
+Joji
+SMITHEREENS
+assets/pics/smithereens.png
+1
+Glimpse of Us
+assets/sounds/smithereens/glimpse_of_us_sound.mp3
+JKVE
+This is what ___ feels like 
+assets/pics/this_is_what___feels_like.png
+1
+Golden Hour
+assets/sounds/this_is_what___feels_like/golden_hour_sound.mp3
