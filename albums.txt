@@ -1,4 +1,4 @@
-7
+8
 Agust D
 D-Day
 assets/pics/dday.png
@@ -47,3 +47,7 @@ assets/pics/this_is_what___feels_like.png
 1
 Golden Hour
 assets/sounds/this_is_what___feels_like/golden_hour_sound.mp3
+me
+ghibli
+C:/Users/Admin/Documents/my_album.png
+0
